@@ -6,4 +6,4 @@ description: This is an example post
 tags:
   - caute
 ---
-![](/img/business.svg)
+![null](/img/business.svg)
